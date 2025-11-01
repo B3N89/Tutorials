@@ -1,0 +1,14 @@
+/Users/benjones/Tutorials/2/AsyncConsole/bin/Debug/net9.0/AsyncConsole
+/Users/benjones/Tutorials/2/AsyncConsole/bin/Debug/net9.0/AsyncConsole.deps.json
+/Users/benjones/Tutorials/2/AsyncConsole/bin/Debug/net9.0/AsyncConsole.runtimeconfig.json
+/Users/benjones/Tutorials/2/AsyncConsole/bin/Debug/net9.0/AsyncConsole.dll
+/Users/benjones/Tutorials/2/AsyncConsole/bin/Debug/net9.0/AsyncConsole.pdb
+/Users/benjones/Tutorials/2/AsyncConsole/obj/Debug/net9.0/AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjones/Tutorials/2/AsyncConsole/obj/Debug/net9.0/AsyncConsole.AssemblyInfoInputs.cache
+/Users/benjones/Tutorials/2/AsyncConsole/obj/Debug/net9.0/AsyncConsole.AssemblyInfo.cs
+/Users/benjones/Tutorials/2/AsyncConsole/obj/Debug/net9.0/AsyncConsole.csproj.CoreCompileInputs.cache
+/Users/benjones/Tutorials/2/AsyncConsole/obj/Debug/net9.0/AsyncConsole.dll
+/Users/benjones/Tutorials/2/AsyncConsole/obj/Debug/net9.0/refint/AsyncConsole.dll
+/Users/benjones/Tutorials/2/AsyncConsole/obj/Debug/net9.0/AsyncConsole.pdb
+/Users/benjones/Tutorials/2/AsyncConsole/obj/Debug/net9.0/AsyncConsole.genruntimeconfig.cache
+/Users/benjones/Tutorials/2/AsyncConsole/obj/Debug/net9.0/ref/AsyncConsole.dll

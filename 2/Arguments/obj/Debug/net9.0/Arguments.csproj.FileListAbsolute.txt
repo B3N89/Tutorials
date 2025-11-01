@@ -1,0 +1,14 @@
+/Users/benjones/Tutorials/2/Arguments/bin/Debug/net9.0/Arguments
+/Users/benjones/Tutorials/2/Arguments/bin/Debug/net9.0/Arguments.deps.json
+/Users/benjones/Tutorials/2/Arguments/bin/Debug/net9.0/Arguments.runtimeconfig.json
+/Users/benjones/Tutorials/2/Arguments/bin/Debug/net9.0/Arguments.dll
+/Users/benjones/Tutorials/2/Arguments/bin/Debug/net9.0/Arguments.pdb
+/Users/benjones/Tutorials/2/Arguments/obj/Debug/net9.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjones/Tutorials/2/Arguments/obj/Debug/net9.0/Arguments.AssemblyInfoInputs.cache
+/Users/benjones/Tutorials/2/Arguments/obj/Debug/net9.0/Arguments.AssemblyInfo.cs
+/Users/benjones/Tutorials/2/Arguments/obj/Debug/net9.0/Arguments.csproj.CoreCompileInputs.cache
+/Users/benjones/Tutorials/2/Arguments/obj/Debug/net9.0/Arguments.dll
+/Users/benjones/Tutorials/2/Arguments/obj/Debug/net9.0/refint/Arguments.dll
+/Users/benjones/Tutorials/2/Arguments/obj/Debug/net9.0/Arguments.pdb
+/Users/benjones/Tutorials/2/Arguments/obj/Debug/net9.0/Arguments.genruntimeconfig.cache
+/Users/benjones/Tutorials/2/Arguments/obj/Debug/net9.0/ref/Arguments.dll

@@ -1,0 +1,14 @@
+/Users/benjones/Tutorials/2/Numbers/bin/Debug/net9.0/Numbers
+/Users/benjones/Tutorials/2/Numbers/bin/Debug/net9.0/Numbers.deps.json
+/Users/benjones/Tutorials/2/Numbers/bin/Debug/net9.0/Numbers.runtimeconfig.json
+/Users/benjones/Tutorials/2/Numbers/bin/Debug/net9.0/Numbers.dll
+/Users/benjones/Tutorials/2/Numbers/bin/Debug/net9.0/Numbers.pdb
+/Users/benjones/Tutorials/2/Numbers/obj/Debug/net9.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjones/Tutorials/2/Numbers/obj/Debug/net9.0/Numbers.AssemblyInfoInputs.cache
+/Users/benjones/Tutorials/2/Numbers/obj/Debug/net9.0/Numbers.AssemblyInfo.cs
+/Users/benjones/Tutorials/2/Numbers/obj/Debug/net9.0/Numbers.csproj.CoreCompileInputs.cache
+/Users/benjones/Tutorials/2/Numbers/obj/Debug/net9.0/Numbers.dll
+/Users/benjones/Tutorials/2/Numbers/obj/Debug/net9.0/refint/Numbers.dll
+/Users/benjones/Tutorials/2/Numbers/obj/Debug/net9.0/Numbers.pdb
+/Users/benjones/Tutorials/2/Numbers/obj/Debug/net9.0/Numbers.genruntimeconfig.cache
+/Users/benjones/Tutorials/2/Numbers/obj/Debug/net9.0/ref/Numbers.dll

@@ -1,0 +1,14 @@
+/Users/benjones/Tutorials/3/casting/bin/Debug/net9.0/casting
+/Users/benjones/Tutorials/3/casting/bin/Debug/net9.0/casting.deps.json
+/Users/benjones/Tutorials/3/casting/bin/Debug/net9.0/casting.runtimeconfig.json
+/Users/benjones/Tutorials/3/casting/bin/Debug/net9.0/casting.dll
+/Users/benjones/Tutorials/3/casting/bin/Debug/net9.0/casting.pdb
+/Users/benjones/Tutorials/3/casting/obj/Debug/net9.0/casting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjones/Tutorials/3/casting/obj/Debug/net9.0/casting.AssemblyInfoInputs.cache
+/Users/benjones/Tutorials/3/casting/obj/Debug/net9.0/casting.AssemblyInfo.cs
+/Users/benjones/Tutorials/3/casting/obj/Debug/net9.0/casting.csproj.CoreCompileInputs.cache
+/Users/benjones/Tutorials/3/casting/obj/Debug/net9.0/casting.dll
+/Users/benjones/Tutorials/3/casting/obj/Debug/net9.0/refint/casting.dll
+/Users/benjones/Tutorials/3/casting/obj/Debug/net9.0/casting.pdb
+/Users/benjones/Tutorials/3/casting/obj/Debug/net9.0/casting.genruntimeconfig.cache
+/Users/benjones/Tutorials/3/casting/obj/Debug/net9.0/ref/casting.dll

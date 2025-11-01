@@ -1,0 +1,14 @@
+/Users/benjones/Tutorials/3/operators/obj/Debug/net9.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjones/Tutorials/3/operators/obj/Debug/net9.0/operators.AssemblyInfoInputs.cache
+/Users/benjones/Tutorials/3/operators/obj/Debug/net9.0/operators.AssemblyInfo.cs
+/Users/benjones/Tutorials/3/operators/obj/Debug/net9.0/operators.csproj.CoreCompileInputs.cache
+/Users/benjones/Tutorials/3/operators/bin/Debug/net9.0/operators
+/Users/benjones/Tutorials/3/operators/bin/Debug/net9.0/operators.deps.json
+/Users/benjones/Tutorials/3/operators/bin/Debug/net9.0/operators.runtimeconfig.json
+/Users/benjones/Tutorials/3/operators/bin/Debug/net9.0/operators.dll
+/Users/benjones/Tutorials/3/operators/bin/Debug/net9.0/operators.pdb
+/Users/benjones/Tutorials/3/operators/obj/Debug/net9.0/operators.dll
+/Users/benjones/Tutorials/3/operators/obj/Debug/net9.0/refint/operators.dll
+/Users/benjones/Tutorials/3/operators/obj/Debug/net9.0/operators.pdb
+/Users/benjones/Tutorials/3/operators/obj/Debug/net9.0/operators.genruntimeconfig.cache
+/Users/benjones/Tutorials/3/operators/obj/Debug/net9.0/ref/operators.dll

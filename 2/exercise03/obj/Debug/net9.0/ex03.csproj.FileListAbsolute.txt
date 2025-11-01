@@ -1,0 +1,14 @@
+/Users/benjones/Tutorials/2/exercise03/bin/Debug/net9.0/ex03
+/Users/benjones/Tutorials/2/exercise03/bin/Debug/net9.0/ex03.deps.json
+/Users/benjones/Tutorials/2/exercise03/bin/Debug/net9.0/ex03.runtimeconfig.json
+/Users/benjones/Tutorials/2/exercise03/bin/Debug/net9.0/ex03.dll
+/Users/benjones/Tutorials/2/exercise03/bin/Debug/net9.0/ex03.pdb
+/Users/benjones/Tutorials/2/exercise03/obj/Debug/net9.0/ex03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjones/Tutorials/2/exercise03/obj/Debug/net9.0/ex03.AssemblyInfoInputs.cache
+/Users/benjones/Tutorials/2/exercise03/obj/Debug/net9.0/ex03.AssemblyInfo.cs
+/Users/benjones/Tutorials/2/exercise03/obj/Debug/net9.0/ex03.csproj.CoreCompileInputs.cache
+/Users/benjones/Tutorials/2/exercise03/obj/Debug/net9.0/ex03.dll
+/Users/benjones/Tutorials/2/exercise03/obj/Debug/net9.0/refint/ex03.dll
+/Users/benjones/Tutorials/2/exercise03/obj/Debug/net9.0/ex03.pdb
+/Users/benjones/Tutorials/2/exercise03/obj/Debug/net9.0/ex03.genruntimeconfig.cache
+/Users/benjones/Tutorials/2/exercise03/obj/Debug/net9.0/ref/ex03.dll

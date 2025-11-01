@@ -1,0 +1,14 @@
+/Users/benjones/Tutorials/1/HelloCs/bin/Debug/net9.0/HelloCs
+/Users/benjones/Tutorials/1/HelloCs/bin/Debug/net9.0/HelloCs.deps.json
+/Users/benjones/Tutorials/1/HelloCs/bin/Debug/net9.0/HelloCs.runtimeconfig.json
+/Users/benjones/Tutorials/1/HelloCs/bin/Debug/net9.0/HelloCs.dll
+/Users/benjones/Tutorials/1/HelloCs/bin/Debug/net9.0/HelloCs.pdb
+/Users/benjones/Tutorials/1/HelloCs/obj/Debug/net9.0/HelloCs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjones/Tutorials/1/HelloCs/obj/Debug/net9.0/HelloCs.AssemblyInfoInputs.cache
+/Users/benjones/Tutorials/1/HelloCs/obj/Debug/net9.0/HelloCs.AssemblyInfo.cs
+/Users/benjones/Tutorials/1/HelloCs/obj/Debug/net9.0/HelloCs.csproj.CoreCompileInputs.cache
+/Users/benjones/Tutorials/1/HelloCs/obj/Debug/net9.0/HelloCs.dll
+/Users/benjones/Tutorials/1/HelloCs/obj/Debug/net9.0/refint/HelloCs.dll
+/Users/benjones/Tutorials/1/HelloCs/obj/Debug/net9.0/HelloCs.pdb
+/Users/benjones/Tutorials/1/HelloCs/obj/Debug/net9.0/HelloCs.genruntimeconfig.cache
+/Users/benjones/Tutorials/1/HelloCs/obj/Debug/net9.0/ref/HelloCs.dll

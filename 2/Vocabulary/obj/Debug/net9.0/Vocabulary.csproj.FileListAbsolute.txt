@@ -1,0 +1,14 @@
+/Users/benjones/Tutorials/2/Vocabulary/bin/Debug/net9.0/Vocabulary
+/Users/benjones/Tutorials/2/Vocabulary/bin/Debug/net9.0/Vocabulary.deps.json
+/Users/benjones/Tutorials/2/Vocabulary/bin/Debug/net9.0/Vocabulary.runtimeconfig.json
+/Users/benjones/Tutorials/2/Vocabulary/bin/Debug/net9.0/Vocabulary.dll
+/Users/benjones/Tutorials/2/Vocabulary/bin/Debug/net9.0/Vocabulary.pdb
+/Users/benjones/Tutorials/2/Vocabulary/obj/Debug/net9.0/Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjones/Tutorials/2/Vocabulary/obj/Debug/net9.0/Vocabulary.AssemblyInfoInputs.cache
+/Users/benjones/Tutorials/2/Vocabulary/obj/Debug/net9.0/Vocabulary.AssemblyInfo.cs
+/Users/benjones/Tutorials/2/Vocabulary/obj/Debug/net9.0/Vocabulary.csproj.CoreCompileInputs.cache
+/Users/benjones/Tutorials/2/Vocabulary/obj/Debug/net9.0/Vocabulary.dll
+/Users/benjones/Tutorials/2/Vocabulary/obj/Debug/net9.0/refint/Vocabulary.dll
+/Users/benjones/Tutorials/2/Vocabulary/obj/Debug/net9.0/Vocabulary.pdb
+/Users/benjones/Tutorials/2/Vocabulary/obj/Debug/net9.0/Vocabulary.genruntimeconfig.cache
+/Users/benjones/Tutorials/2/Vocabulary/obj/Debug/net9.0/ref/Vocabulary.dll

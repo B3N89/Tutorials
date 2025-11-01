@@ -1,0 +1,14 @@
+/Users/benjones/Tutorials/2/Formatting/bin/Debug/net9.0/Formatting
+/Users/benjones/Tutorials/2/Formatting/bin/Debug/net9.0/Formatting.deps.json
+/Users/benjones/Tutorials/2/Formatting/bin/Debug/net9.0/Formatting.runtimeconfig.json
+/Users/benjones/Tutorials/2/Formatting/bin/Debug/net9.0/Formatting.dll
+/Users/benjones/Tutorials/2/Formatting/bin/Debug/net9.0/Formatting.pdb
+/Users/benjones/Tutorials/2/Formatting/obj/Debug/net9.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjones/Tutorials/2/Formatting/obj/Debug/net9.0/Formatting.AssemblyInfoInputs.cache
+/Users/benjones/Tutorials/2/Formatting/obj/Debug/net9.0/Formatting.AssemblyInfo.cs
+/Users/benjones/Tutorials/2/Formatting/obj/Debug/net9.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/benjones/Tutorials/2/Formatting/obj/Debug/net9.0/Formatting.dll
+/Users/benjones/Tutorials/2/Formatting/obj/Debug/net9.0/refint/Formatting.dll
+/Users/benjones/Tutorials/2/Formatting/obj/Debug/net9.0/Formatting.pdb
+/Users/benjones/Tutorials/2/Formatting/obj/Debug/net9.0/Formatting.genruntimeconfig.cache
+/Users/benjones/Tutorials/2/Formatting/obj/Debug/net9.0/ref/Formatting.dll

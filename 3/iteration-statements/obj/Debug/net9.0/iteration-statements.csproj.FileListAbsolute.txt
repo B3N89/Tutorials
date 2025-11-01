@@ -1,0 +1,14 @@
+/Users/benjones/Tutorials/3/iteration-statements/bin/Debug/net9.0/iteration-statements
+/Users/benjones/Tutorials/3/iteration-statements/bin/Debug/net9.0/iteration-statements.deps.json
+/Users/benjones/Tutorials/3/iteration-statements/bin/Debug/net9.0/iteration-statements.runtimeconfig.json
+/Users/benjones/Tutorials/3/iteration-statements/bin/Debug/net9.0/iteration-statements.dll
+/Users/benjones/Tutorials/3/iteration-statements/bin/Debug/net9.0/iteration-statements.pdb
+/Users/benjones/Tutorials/3/iteration-statements/obj/Debug/net9.0/iteration-statements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjones/Tutorials/3/iteration-statements/obj/Debug/net9.0/iteration-statements.AssemblyInfoInputs.cache
+/Users/benjones/Tutorials/3/iteration-statements/obj/Debug/net9.0/iteration-statements.AssemblyInfo.cs
+/Users/benjones/Tutorials/3/iteration-statements/obj/Debug/net9.0/iteration-statements.csproj.CoreCompileInputs.cache
+/Users/benjones/Tutorials/3/iteration-statements/obj/Debug/net9.0/iteration-statements.dll
+/Users/benjones/Tutorials/3/iteration-statements/obj/Debug/net9.0/refint/iteration-statements.dll
+/Users/benjones/Tutorials/3/iteration-statements/obj/Debug/net9.0/iteration-statements.pdb
+/Users/benjones/Tutorials/3/iteration-statements/obj/Debug/net9.0/iteration-statements.genruntimeconfig.cache
+/Users/benjones/Tutorials/3/iteration-statements/obj/Debug/net9.0/ref/iteration-statements.dll

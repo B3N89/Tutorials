@@ -1,0 +1,14 @@
+/Users/benjones/Tutorials/3/selection-statements/bin/Debug/net9.0/selection-statements
+/Users/benjones/Tutorials/3/selection-statements/bin/Debug/net9.0/selection-statements.deps.json
+/Users/benjones/Tutorials/3/selection-statements/bin/Debug/net9.0/selection-statements.runtimeconfig.json
+/Users/benjones/Tutorials/3/selection-statements/bin/Debug/net9.0/selection-statements.dll
+/Users/benjones/Tutorials/3/selection-statements/bin/Debug/net9.0/selection-statements.pdb
+/Users/benjones/Tutorials/3/selection-statements/obj/Debug/net9.0/selection-statements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjones/Tutorials/3/selection-statements/obj/Debug/net9.0/selection-statements.AssemblyInfoInputs.cache
+/Users/benjones/Tutorials/3/selection-statements/obj/Debug/net9.0/selection-statements.AssemblyInfo.cs
+/Users/benjones/Tutorials/3/selection-statements/obj/Debug/net9.0/selection-statements.csproj.CoreCompileInputs.cache
+/Users/benjones/Tutorials/3/selection-statements/obj/Debug/net9.0/selection-statements.dll
+/Users/benjones/Tutorials/3/selection-statements/obj/Debug/net9.0/refint/selection-statements.dll
+/Users/benjones/Tutorials/3/selection-statements/obj/Debug/net9.0/selection-statements.pdb
+/Users/benjones/Tutorials/3/selection-statements/obj/Debug/net9.0/selection-statements.genruntimeconfig.cache
+/Users/benjones/Tutorials/3/selection-statements/obj/Debug/net9.0/ref/selection-statements.dll

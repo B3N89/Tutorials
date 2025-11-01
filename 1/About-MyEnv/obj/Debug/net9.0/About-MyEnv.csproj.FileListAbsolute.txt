@@ -1,0 +1,14 @@
+/Users/benjones/Tutorials/1/About-MyEnv/bin/Debug/net9.0/About-MyEnv
+/Users/benjones/Tutorials/1/About-MyEnv/bin/Debug/net9.0/About-MyEnv.deps.json
+/Users/benjones/Tutorials/1/About-MyEnv/bin/Debug/net9.0/About-MyEnv.runtimeconfig.json
+/Users/benjones/Tutorials/1/About-MyEnv/bin/Debug/net9.0/About-MyEnv.dll
+/Users/benjones/Tutorials/1/About-MyEnv/bin/Debug/net9.0/About-MyEnv.pdb
+/Users/benjones/Tutorials/1/About-MyEnv/obj/Debug/net9.0/About-MyEnv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjones/Tutorials/1/About-MyEnv/obj/Debug/net9.0/About-MyEnv.AssemblyInfoInputs.cache
+/Users/benjones/Tutorials/1/About-MyEnv/obj/Debug/net9.0/About-MyEnv.AssemblyInfo.cs
+/Users/benjones/Tutorials/1/About-MyEnv/obj/Debug/net9.0/About-MyEnv.csproj.CoreCompileInputs.cache
+/Users/benjones/Tutorials/1/About-MyEnv/obj/Debug/net9.0/About-MyEnv.dll
+/Users/benjones/Tutorials/1/About-MyEnv/obj/Debug/net9.0/refint/About-MyEnv.dll
+/Users/benjones/Tutorials/1/About-MyEnv/obj/Debug/net9.0/About-MyEnv.pdb
+/Users/benjones/Tutorials/1/About-MyEnv/obj/Debug/net9.0/About-MyEnv.genruntimeconfig.cache
+/Users/benjones/Tutorials/1/About-MyEnv/obj/Debug/net9.0/ref/About-MyEnv.dll
