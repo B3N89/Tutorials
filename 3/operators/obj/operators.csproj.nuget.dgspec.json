@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/benjones/Tutorials/3/operators/operators.csproj": {}
+    "/Users/benjones/Documents/Tutorials/3/operators/operators.csproj": {}
   },
   "projects": {
-    "/Users/benjones/Tutorials/3/operators/operators.csproj": {
+    "/Users/benjones/Documents/Tutorials/3/operators/operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/benjones/Tutorials/3/operators/operators.csproj",
+        "projectUniqueName": "/Users/benjones/Documents/Tutorials/3/operators/operators.csproj",
         "projectName": "operators",
-        "projectPath": "/Users/benjones/Tutorials/3/operators/operators.csproj",
+        "projectPath": "/Users/benjones/Documents/Tutorials/3/operators/operators.csproj",
         "packagesPath": "/Users/benjones/.nuget/packages/",
-        "outputPath": "/Users/benjones/Tutorials/3/operators/obj/",
+        "outputPath": "/Users/benjones/Documents/Tutorials/3/operators/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/benjones/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/benjones/Tutorials/3/arrays/arrays.csproj",
+      "projectUniqueName": "/Users/benjones/Documents/Tutorials/3/arrays/arrays.csproj",
       "projectName": "arrays",
-      "projectPath": "/Users/benjones/Tutorials/3/arrays/arrays.csproj",
+      "projectPath": "/Users/benjones/Documents/Tutorials/3/arrays/arrays.csproj",
       "packagesPath": "/Users/benjones/.nuget/packages/",
-      "outputPath": "/Users/benjones/Tutorials/3/arrays/obj/",
+      "outputPath": "/Users/benjones/Documents/Tutorials/3/arrays/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/benjones/.nuget/NuGet/NuGet.Config"

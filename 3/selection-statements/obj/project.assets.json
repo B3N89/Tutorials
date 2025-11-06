@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/benjones/Tutorials/3/selection-statements/selection-statements.csproj",
+      "projectUniqueName": "/Users/benjones/Documents/Tutorials/3/selection-statements/selection-statements.csproj",
       "projectName": "selection-statements",
-      "projectPath": "/Users/benjones/Tutorials/3/selection-statements/selection-statements.csproj",
+      "projectPath": "/Users/benjones/Documents/Tutorials/3/selection-statements/selection-statements.csproj",
       "packagesPath": "/Users/benjones/.nuget/packages/",
-      "outputPath": "/Users/benjones/Tutorials/3/selection-statements/obj/",
+      "outputPath": "/Users/benjones/Documents/Tutorials/3/selection-statements/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/benjones/.nuget/NuGet/NuGet.Config"

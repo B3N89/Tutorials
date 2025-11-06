@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/benjones/Tutorials/3/casting/casting.csproj": {}
+    "/Users/benjones/Documents/Tutorials/3/casting/casting.csproj": {}
   },
   "projects": {
-    "/Users/benjones/Tutorials/3/casting/casting.csproj": {
+    "/Users/benjones/Documents/Tutorials/3/casting/casting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/benjones/Tutorials/3/casting/casting.csproj",
+        "projectUniqueName": "/Users/benjones/Documents/Tutorials/3/casting/casting.csproj",
         "projectName": "casting",
-        "projectPath": "/Users/benjones/Tutorials/3/casting/casting.csproj",
+        "projectPath": "/Users/benjones/Documents/Tutorials/3/casting/casting.csproj",
         "packagesPath": "/Users/benjones/.nuget/packages/",
-        "outputPath": "/Users/benjones/Tutorials/3/casting/obj/",
+        "outputPath": "/Users/benjones/Documents/Tutorials/3/casting/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/benjones/.nuget/NuGet/NuGet.Config"

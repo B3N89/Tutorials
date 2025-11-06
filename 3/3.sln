@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays", "arrays\arrays.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "casting", "casting\casting.csproj", "{4EABB4FA-41D2-4A2F-B670-E54280B05AF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exceptions", "exceptions\exceptions.csproj", "{2812D011-A5CB-4A8A-B1B2-B6767A569AC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,18 @@ Global
 		{4EABB4FA-41D2-4A2F-B670-E54280B05AF1}.Release|x64.Build.0 = Release|Any CPU
 		{4EABB4FA-41D2-4A2F-B670-E54280B05AF1}.Release|x86.ActiveCfg = Release|Any CPU
 		{4EABB4FA-41D2-4A2F-B670-E54280B05AF1}.Release|x86.Build.0 = Release|Any CPU
+		{2812D011-A5CB-4A8A-B1B2-B6767A569AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2812D011-A5CB-4A8A-B1B2-B6767A569AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2812D011-A5CB-4A8A-B1B2-B6767A569AC0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2812D011-A5CB-4A8A-B1B2-B6767A569AC0}.Debug|x64.Build.0 = Debug|Any CPU
+		{2812D011-A5CB-4A8A-B1B2-B6767A569AC0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2812D011-A5CB-4A8A-B1B2-B6767A569AC0}.Debug|x86.Build.0 = Debug|Any CPU
+		{2812D011-A5CB-4A8A-B1B2-B6767A569AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2812D011-A5CB-4A8A-B1B2-B6767A569AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2812D011-A5CB-4A8A-B1B2-B6767A569AC0}.Release|x64.ActiveCfg = Release|Any CPU
+		{2812D011-A5CB-4A8A-B1B2-B6767A569AC0}.Release|x64.Build.0 = Release|Any CPU
+		{2812D011-A5CB-4A8A-B1B2-B6767A569AC0}.Release|x86.ActiveCfg = Release|Any CPU
+		{2812D011-A5CB-4A8A-B1B2-B6767A569AC0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

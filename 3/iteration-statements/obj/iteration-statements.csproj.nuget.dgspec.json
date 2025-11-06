@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/benjones/Tutorials/3/iteration-statements/iteration-statements.csproj": {}
+    "/Users/benjones/Documents/Tutorials/3/iteration-statements/iteration-statements.csproj": {}
   },
   "projects": {
-    "/Users/benjones/Tutorials/3/iteration-statements/iteration-statements.csproj": {
+    "/Users/benjones/Documents/Tutorials/3/iteration-statements/iteration-statements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/benjones/Tutorials/3/iteration-statements/iteration-statements.csproj",
+        "projectUniqueName": "/Users/benjones/Documents/Tutorials/3/iteration-statements/iteration-statements.csproj",
         "projectName": "iteration-statements",
-        "projectPath": "/Users/benjones/Tutorials/3/iteration-statements/iteration-statements.csproj",
+        "projectPath": "/Users/benjones/Documents/Tutorials/3/iteration-statements/iteration-statements.csproj",
         "packagesPath": "/Users/benjones/.nuget/packages/",
-        "outputPath": "/Users/benjones/Tutorials/3/iteration-statements/obj/",
+        "outputPath": "/Users/benjones/Documents/Tutorials/3/iteration-statements/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/benjones/.nuget/NuGet/NuGet.Config"
