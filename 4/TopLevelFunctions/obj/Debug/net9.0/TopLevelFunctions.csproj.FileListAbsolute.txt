@@ -1,0 +1,15 @@
+/Users/benjones/Documents/Tutorials/4/TopLevelFunctions/bin/Debug/net9.0/TopLevelFunctions
+/Users/benjones/Documents/Tutorials/4/TopLevelFunctions/bin/Debug/net9.0/TopLevelFunctions.deps.json
+/Users/benjones/Documents/Tutorials/4/TopLevelFunctions/bin/Debug/net9.0/TopLevelFunctions.runtimeconfig.json
+/Users/benjones/Documents/Tutorials/4/TopLevelFunctions/bin/Debug/net9.0/TopLevelFunctions.dll
+/Users/benjones/Documents/Tutorials/4/TopLevelFunctions/bin/Debug/net9.0/TopLevelFunctions.pdb
+/Users/benjones/Documents/Tutorials/4/TopLevelFunctions/obj/Debug/net9.0/TopLevelFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjones/Documents/Tutorials/4/TopLevelFunctions/obj/Debug/net9.0/TopLevelFunctions.AssemblyInfoInputs.cache
+/Users/benjones/Documents/Tutorials/4/TopLevelFunctions/obj/Debug/net9.0/TopLevelFunctions.AssemblyInfo.cs
+/Users/benjones/Documents/Tutorials/4/TopLevelFunctions/obj/Debug/net9.0/TopLevelFunctions.csproj.CoreCompileInputs.cache
+/Users/benjones/Documents/Tutorials/4/TopLevelFunctions/obj/Debug/net9.0/TopLevelFunctions.sourcelink.json
+/Users/benjones/Documents/Tutorials/4/TopLevelFunctions/obj/Debug/net9.0/TopLevelFunctions.dll
+/Users/benjones/Documents/Tutorials/4/TopLevelFunctions/obj/Debug/net9.0/refint/TopLevelFunctions.dll
+/Users/benjones/Documents/Tutorials/4/TopLevelFunctions/obj/Debug/net9.0/TopLevelFunctions.pdb
+/Users/benjones/Documents/Tutorials/4/TopLevelFunctions/obj/Debug/net9.0/TopLevelFunctions.genruntimeconfig.cache
+/Users/benjones/Documents/Tutorials/4/TopLevelFunctions/obj/Debug/net9.0/ref/TopLevelFunctions.dll

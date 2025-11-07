@@ -1,0 +1,15 @@
+/Users/benjones/Documents/Tutorials/4/WritingFunctions/bin/Debug/net9.0/WritingFunctions
+/Users/benjones/Documents/Tutorials/4/WritingFunctions/bin/Debug/net9.0/WritingFunctions.deps.json
+/Users/benjones/Documents/Tutorials/4/WritingFunctions/bin/Debug/net9.0/WritingFunctions.runtimeconfig.json
+/Users/benjones/Documents/Tutorials/4/WritingFunctions/bin/Debug/net9.0/WritingFunctions.dll
+/Users/benjones/Documents/Tutorials/4/WritingFunctions/bin/Debug/net9.0/WritingFunctions.pdb
+/Users/benjones/Documents/Tutorials/4/WritingFunctions/obj/Debug/net9.0/WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjones/Documents/Tutorials/4/WritingFunctions/obj/Debug/net9.0/WritingFunctions.AssemblyInfoInputs.cache
+/Users/benjones/Documents/Tutorials/4/WritingFunctions/obj/Debug/net9.0/WritingFunctions.AssemblyInfo.cs
+/Users/benjones/Documents/Tutorials/4/WritingFunctions/obj/Debug/net9.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/Users/benjones/Documents/Tutorials/4/WritingFunctions/obj/Debug/net9.0/WritingFunctions.sourcelink.json
+/Users/benjones/Documents/Tutorials/4/WritingFunctions/obj/Debug/net9.0/WritingFunctions.dll
+/Users/benjones/Documents/Tutorials/4/WritingFunctions/obj/Debug/net9.0/refint/WritingFunctions.dll
+/Users/benjones/Documents/Tutorials/4/WritingFunctions/obj/Debug/net9.0/WritingFunctions.pdb
+/Users/benjones/Documents/Tutorials/4/WritingFunctions/obj/Debug/net9.0/WritingFunctions.genruntimeconfig.cache
+/Users/benjones/Documents/Tutorials/4/WritingFunctions/obj/Debug/net9.0/ref/WritingFunctions.dll
