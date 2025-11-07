@@ -59,7 +59,7 @@ partial class Program
             }
             catch (ArgumentOutOfRangeException ex) 
             {
-                   WriteLine(ex.Message, ex.StackTrace);
+                   WriteLine("message:{0}, \n Stack Trace: \n {1}", ex.Message, ex.StackTrace);
             }
         }
     }
